@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, my name is Radmir Salikhov 👋
 
-My name is Radmir Salikhov
+
 
 Here are some ideas to get you started:
 
