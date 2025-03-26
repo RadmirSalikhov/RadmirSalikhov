@@ -1,8 +1,7 @@
 ## Hi, my name is Radmir Salikhov 👋
 
-
-
-Here are some ideas to get you started:
+About me
+I am taking the Java training course on: [job4j](https://job4j.ru/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
